@@ -1,0 +1,19 @@
+{
+  "highpassHz": 80,
+  "mudDb": -2,
+  "presenceDb": 2,
+  "airDb": 3,
+  "notchDb": -1.5,
+  "warmth": 0.2,
+  "deessAmount": 0.5,
+  "compRatio": 2.5,
+  "dolbyStretch": true,
+  "dolbyMix": 0.45,
+  "dolbyTrimDb": 0,
+  "breathAmount": 0.05,
+  "adtDelayMs": 20,
+  "adtDepthMs": 1.3,
+  "adtRateHz": 0.4,
+  "adtWet": 0.3,
+  "adtSpread": 0.75
+}
